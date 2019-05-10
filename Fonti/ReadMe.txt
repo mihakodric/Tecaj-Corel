@@ -1,6 +1,6 @@
-Computer Modern (cmmi8) - grške èrke
+Computer Modern (cmmi8) - grÅ¡ke Ärke
 LMMathSymbols10 (lmsy10) - za posebne znake (npr. element)
-CMU Serif (cmunti) - leeèe normalno
-CMU Serif Roman (cmunrm) - pokonèno normalno
-CMU Serif Bold Extended Roman (cmunbx) - pokonèno krepko
-CMU Serif Bold Extended Italic(cmunbi) - leeèe krepko
+CMU Serif (cmunti) - leÅ¾eÄe normalno
+CMU Serif Roman (cmunrm) - pokonÄno normalno
+CMU Serif Bold Extended Roman (cmunbx) - pokonÄno krepko
+CMU Serif Bold Extended Italic(cmunbi) - leÅ¾eÄe krepko
